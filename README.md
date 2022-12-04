@@ -17,6 +17,7 @@ npx hardhat help
 npx hardhat compile
 npx hardhat run scripts/deploy.ts
 ```
+Contract Address:"0x795A7D5a5B052fc901D44C893e494f71d2aD7DFB"
 
 TechStack: Solidity
            Python
